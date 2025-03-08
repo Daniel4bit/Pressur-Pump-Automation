@@ -1,0 +1,17 @@
+float runningfreq;
+float busvoltage;
+float outputvoltage;
+float outputcurrent;
+float outpower;
+float outtorque;
+float runningspeed;
+float inputmark;
+float outputmark;
+float ai1value;
+float ai2value;
+float cumpoweron;
+float cumrunning;
+float cumconsumption;
+float targetpressure;
+float error;
+float settingpressure;
